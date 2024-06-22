@@ -1,3 +1,4 @@
 import "./css/styles.css";
-
-console.log("hello world");
+export default function getName() {
+	return "vatsal";
+}
